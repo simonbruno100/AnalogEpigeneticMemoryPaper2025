@@ -1,5 +1,7 @@
 README – Code Repository for Main and Supplementary Figures
 
+[![DOI](https://zenodo.org/badge/978263241.svg)](https://doi.org/10.5281/zenodo.15345726)
+
 This repository contains all the MATLAB scripts and documentation necessary to reproduce the simulations and computational analyses presented in the main paper and supplementary information.
 Each folder in the repository corresponds to one or more figures in the manuscript and includes:
 •	Simulation scripts: Main .m files used to generate the data and plots.
